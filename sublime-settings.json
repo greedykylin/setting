@@ -1,0 +1,17 @@
+{
+    "font_face": "NanumGothicCoding",
+    "font_size": 14,
+    "ruler": [80, 120],
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true,
+     "always_show_minimap_viewport": true,
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "caret_style":  "phase",
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+    "draw_white_space": "all",
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "highlight_modified_tabs": true,
+}
